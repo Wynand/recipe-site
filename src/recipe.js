@@ -5,7 +5,6 @@ export default function Recipe(props){
     let recipe = props.recipe
     let i = 1;
 
-    console.table(props);
     return (<main role="main">
 
     {/*<-- Main jumbotron for a primary marketing message or call to action -->*/}
