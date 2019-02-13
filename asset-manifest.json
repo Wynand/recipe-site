@@ -1,13 +1,13 @@
 {
-  "main.css": "/recipe-site/static/css/main.aa5a131a.chunk.css",
-  "main.js": "/recipe-site/static/js/main.727c742a.chunk.js",
-  "main.js.map": "/recipe-site/static/js/main.727c742a.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/recipe-site/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/recipe-site/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/recipe-site/static/css/main.4add2c40.chunk.css",
+  "main.js": "/recipe-site/static/js/main.afda407e.chunk.js",
+  "main.js.map": "/recipe-site/static/js/main.afda407e.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/recipe-site/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/recipe-site/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/recipe-site/static/js/runtime~main.635d879d.js",
   "runtime~main.js.map": "/recipe-site/static/js/runtime~main.635d879d.js.map",
-  "static/css/main.aa5a131a.chunk.css.map": "/recipe-site/static/css/main.aa5a131a.chunk.css.map",
+  "static/css/main.4add2c40.chunk.css.map": "/recipe-site/static/css/main.4add2c40.chunk.css.map",
   "index.html": "/recipe-site/index.html",
-  "precache-manifest.7c9bdaf90f4d27dcb0ca66a992db0373.js": "/recipe-site/precache-manifest.7c9bdaf90f4d27dcb0ca66a992db0373.js",
+  "precache-manifest.9303c05cace936cc122a06a7fa4c1dcc.js": "/recipe-site/precache-manifest.9303c05cace936cc122a06a7fa4c1dcc.js",
   "service-worker.js": "/recipe-site/service-worker.js"
 }
