@@ -202,6 +202,131 @@ let recipes = [
         ]
       },
     ]
+  },{
+    title: "Milk Tart",
+    description: "My favorite dessert growing up - a cinnamony custardy sweet treat.  Can be served hot but my best memories are eating this at room temperature",
+    steps: [
+      {
+        instruction:"Bake pie shell to completion.  For best results, put dry rice or beans in wax paper in pie shell to stop the shell from bubbling",
+        ingredients:[
+          {
+            name:"Pie Shells",
+            amount:"2",
+            unit:' 9"'
+          }
+        ]
+      },
+      {
+        instruction:"Mix flour or corn starch (only one is needed) with sugar and salt, then mix in eggs",
+        ingredients:[
+          {
+            name:"Flour",
+            amount:"1/2",
+            unit:"cup"
+          },
+          {
+            name:"Corn Starch",
+            amount:"1/4",
+            unit:"cup"
+          },
+          {
+            name:"Sugar",
+            amount:"1/2",
+            unit:"cup"
+          },
+          {
+            name:"Salt",
+            amount:"1/4",
+            unit:"tsp"
+          },
+          {
+            name:"Eggs",
+            amount:"4",
+            unit:""
+          },
+        ]
+      },
+      {
+        instruction:"Mix milk and sugar, heat milk until bubbling",
+        ingredients:[
+          {
+            name:"Milk",
+            amount:"1",
+            unit:"litre"
+          },
+          {
+            name:"Sugar",
+            amount:"1/2",
+            unit:"cup"
+          },
+          {
+            name:"Salt",
+            amount:"1/4",
+            unit:"tsp"
+          },
+          {
+            name:"Eggs",
+            amount:"4",
+            unit:""
+          },
+        ]
+      },
+      {
+        instruction:"Add small amounts of milk mixture to egg mixture and mix, to temper eggs.  Repeat until mix is hot (using 1/3 to 1/2 of the milk)",
+        ingredients:[
+          {
+            name:"Milk mixture",
+            amount:"",
+            unit:""
+          },
+          {
+            name:"Egg mixture",
+            amount:"",
+            unit:""
+          },
+        ]
+      },
+      {
+        instruction:"Add vanilla to egg mixture then pour egg mixture into milk mixture. Heat until bubbling (about 1 minute)",
+        ingredients:[
+          {
+            name:"Milk mixture",
+            amount:"",
+            unit:""
+          },
+          {
+            name:"Egg mixture",
+            amount:"",
+            unit:""
+          },
+          {
+            name:"Vanilla Extract",
+            amount:"5",
+            unit:"mL"
+          },
+        ]
+      },
+      {
+        instruction:"Pour finished filling into pie shells, sprinkle with cinnamon",
+        ingredients:[
+          {
+            name:"Milk/Egg filling",
+            amount:"",
+            unit:""
+          },
+          {
+            name:"Baked Pie Shell",
+            amount:"1",
+            unit:""
+          },
+          {
+            name:"Cinnamon",
+            amount:"",
+            unit:""
+          },
+        ]
+      },
+    ]
   }
 ];
 
