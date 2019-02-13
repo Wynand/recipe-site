@@ -1,0 +1,327 @@
+[
+    {
+      "title": "Curry and Rice",
+      "description": "Recipe for somewhat traditional Curry (ied beef) and Rice recipe modified by my mom and I",
+      "steps": [
+        {
+          "instruction":"Braise the onions and spices in hot oil.\n Remove half the onions from the pan and set aside.",
+          "ingredients":[
+            {
+              "name": "Onion",
+              "amount": 1,
+              "unit": ""
+            },
+            {
+              "name": "Garlic Clove",
+              "amount": 1.5,
+              "unit": "g"
+            },
+            {
+              "name": "Ginger",
+              "amount": 1,
+              "unit": "tsp"
+            },
+            {
+              "name": "Oil",
+              "amount": 2,
+              "unit": "tsp"
+            },
+            {
+              "name": "Curry",
+              "amount": 0.5,
+              "unit": "tbsp"
+            },
+            {
+              "name": "Coriander",
+              "amount": 1,
+              "unit": "tbsp"
+            },
+            {
+              "name": "Turmuric",
+              "amount": 0.5,
+              "unit": "tsp"
+            },
+            {
+              "name": "Cumin",
+              "amount": 0.5,
+              "unit": "tsp"
+            },
+            {
+              "name": "Pepper",
+              "amount": 0.25,
+              "unit": "tsp"
+            }
+          ]
+        },
+        {
+          "instruction":"Add the meat, stir and simmer slowly until brown.\nAdd enough hot water so it comes 2.5cm up the sides of the sauce pan.",
+          "ingredients":[
+            {
+              "name": "Ground Beef",
+              "amount": 670,
+              "unit": "g"
+            }
+          ]
+        },
+        {
+          "instruction":"Mix the remaining ingredients (including the onions), and add to the meat.\nSimmer for about 1.5 hours or until the meat is tender.",
+          "ingredients":[
+            {
+              "name": "Potatoes",
+              "amount": 130,
+              "unit": "g"
+            },
+            {
+              "name": "Carrots",
+              "amount": 130,
+              "unit": "g"
+            },
+            {
+              "name": "Cinnamon",
+              "amount": 0.5,
+              "unit": "tsp"
+            },
+            {
+              "name": "Salt",
+              "amount": 1,
+              "unit": "tsp"
+            },
+            {
+              "name": "Cardamom Seeds",
+              "amount": 0.5,
+              "unit": "tsp"
+            },
+            {
+              "name": "Cake Flour",
+              "amount": 1,
+              "unit": "tsp"
+            },
+            {
+              "name": "Sugar",
+              "amount": 1,
+              "unit": "tsp"
+            },
+            {
+              "name": "Vinegar",
+              "amount": 2,
+              "unit": "tbsp"
+            }
+          ]
+        },
+        {
+          "instruction":"Serve with Rice and Chutney",
+          "ingredients":[]
+        }
+      ]
+    },{
+      "title": "Boysonberry Chicken",
+      "description": "Moerby Hoender in Afrikaans - A traditional recipe which my dad makes, and I'm trying to reproduce",
+      "steps": [
+        {
+          "instruction": "Roast onion with curry, pepper, ginger, sugar",
+          "ingredients": [
+            {
+              "name":"Onion",
+              "amount":"1",
+              "unit":""
+            },
+            {
+              "name":"oil",
+              "amount":"1",
+              "unit":"tbsp"
+            },
+            {
+              "name":"curry",
+              "amount":"0.5",
+              "unit":"tbsp"
+            },
+            {
+              "name":"pepper",
+              "amount":"0.25",
+              "unit":"tsp"
+            },
+            {
+              "name":"ginger",
+              "amount":"1",
+              "unit":"tsp"
+            },
+            {
+              "name":"sugar",
+              "amount":"1",
+              "unit":"tbsp"
+            }
+          ]
+        },
+        {
+          "instruction": "Brown chicken with onions",
+          "ingredients": [
+            {
+              "name":"Chicken",
+              "amount":"6",
+              "unit":"drumsticks"
+            }
+          ]
+        },
+        {
+          "instruction": "Add bbq sauce, lemon juice, vinegar, potatoes, and stew on low until potatoes are soft",
+          "ingredients": [
+            {
+              "name":"bbq sauce",
+              "amount":"",
+              "unit":""
+            },
+            {
+              "name":"vinegar",
+              "amount":"1",
+              "unit":"tbsp"
+            },
+            {
+              "name":"lemon juice",
+              "amount":"1",
+              "unit":"tbsp"
+            },
+            {
+              "name":"soy sauce",
+              "amount":"1",
+              "unit":"tbsp"
+            },
+            {
+              "name":"onion soup",
+              "amount":"1",
+              "unit":"pack"
+            },
+            {
+              "name":"salt",
+              "amount":"1",
+              "unit":"tsp"
+            }
+          ]
+        }
+      ]
+    },{
+      "title": "Milk Tart",
+      "description": "My favorite dessert growing up - a cinnamony custardy sweet treat.  Can be served hot but my best memories are eating this at room temperature",
+      "steps": [
+        {
+          "instruction":"Bake pie shell to completion.  For best results, put dry rice or beans in wax paper in pie shell to stop the shell from bubbling",
+          "ingredients":[
+            {
+              "name":"Pie Shells",
+              "amount":"2",
+              "unit":" 9\""
+            }
+          ]
+        },
+        {
+          "instruction":"Mix flour or corn starch (only one is needed) with sugar and salt, then mix in eggs",
+          "ingredients":[
+            {
+              "name":"Flour",
+              "amount":"1/2",
+              "unit":"cup"
+            },
+            {
+              "name":"Corn Starch",
+              "amount":"1/4",
+              "unit":"cup"
+            },
+            {
+              "name":"Sugar",
+              "amount":"1/2",
+              "unit":"cup"
+            },
+            {
+              "name":"Salt",
+              "amount":"1/4",
+              "unit":"tsp"
+            },
+            {
+              "name":"Eggs",
+              "amount":"4",
+              "unit":""
+            }
+          ]
+        },
+        {
+          "instruction":"Mix milk and sugar, heat milk until bubbling",
+          "ingredients":[
+            {
+              "name":"Milk",
+              "amount":"1",
+              "unit":"litre"
+            },
+            {
+              "name":"Sugar",
+              "amount":"1/2",
+              "unit":"cup"
+            },
+            {
+              "name":"Salt",
+              "amount":"1/4",
+              "unit":"tsp"
+            },
+            {
+              "name":"Eggs",
+              "amount":"4",
+              "unit":""
+            }
+          ]
+        },
+        {
+          "instruction":"Add small amounts of milk mixture to egg mixture and mix, to temper eggs.  Repeat until mix is hot (using 1/3 to 1/2 of the milk)",
+          "ingredients":[
+            {
+              "name":"Milk mixture",
+              "amount":"",
+              "unit":""
+            },
+            {
+              "name":"Egg mixture",
+              "amount":"",
+              "unit":""
+            }
+          ]
+        },
+        {
+          "instruction":"Add vanilla to egg mixture then pour egg mixture into milk mixture. Heat until bubbling (about 1 minute)",
+          "ingredients":[
+            {
+              "name":"Milk mixture",
+              "amount":"",
+              "unit":""
+            },
+            {
+              "name":"Egg mixture",
+              "amount":"",
+              "unit":""
+            },
+            {
+              "name":"Vanilla Extract",
+              "amount":"5",
+              "unit":"mL"
+            }
+          ]
+        },
+        {
+          "instruction":"Pour finished filling into pie shells, sprinkle with cinnamon",
+          "ingredients":[
+            {
+              "name":"Milk/Egg filling",
+              "amount":"",
+              "unit":""
+            },
+            {
+              "name":"Baked Pie Shell",
+              "amount":"1",
+              "unit":""
+            },
+            {
+              "name":"Cinnamon",
+              "amount":"",
+              "unit":""
+            }
+          ]
+        }
+      ]
+    }
+  ]

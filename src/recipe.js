@@ -8,23 +8,23 @@ export default function Recipe(props){
     return (<main role="main">
 
     {/*<-- Main jumbotron for a primary marketing message or call to action -->*/}
-    <div class="jumbotron">
-      <div class="container">
-        <h1 class="display-3">{recipe.title}</h1>
+    <div className="jumbotron">
+      <div className="container">
+        <h1 className="display-3">{recipe.title}</h1>
         <p>{recipe.description}</p>
       </div>
     </div>
 
-    <div class="container">
+    <div className="container">
       {/*<!-- Example row of columns -->*/}
-        {recipe.steps.map(step=><React.Fragment>
+        {recipe.steps.map(step=><React.Fragment key = {step.instruction}>
             <div className = "row">
                 <div className = "col-md-4">
                     <h2>{i++}</h2>
                     <p>{step.instruction}</p>
                 </div>
                 <div className = "col-md-4">
-                    {step.ingredients.map(ingredient=><p>
+                    {step.ingredients.map(ingredient=><p key={ingredient.name}>
                         {ingredient.amount + " " + ingredient.unit + " " + ingredient.name}
                     </p>)}
                 </div>
